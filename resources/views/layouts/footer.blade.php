@@ -1,8 +1,8 @@
 <!-- Footer -->
-<div class="container">
+<div class="container" style="background-color:#89da59">
 <footer class="page-footer font-small unique-color-dark">
 
-    <div style="background-color: #ecc19c">
+    <div >
       
   
      
@@ -10,7 +10,7 @@
   
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2020 Copyright:
-      <a href="#"> <h2> NorthenGreen Construction.com </h2></a>
+      <a href="#"> <h2> Northern Green Developers Limited </h2></a>
     </div>
     <!-- Copyright -->
     </div>
